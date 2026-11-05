@@ -30,7 +30,7 @@ I'm **Bijoy Mozid**, a web developer and designer from Bangladesh. I build fast,
 
 | Project | What it is | Tech |
 | :-- | :-- | :-- |
-| **Portfolio Website** | Dark editorial personal portfolio with pinned scroll panels, scroll-driven sections and GSAP-powered motion | Next.js · TypeScript · Tailwind · GSAP · Framer Motion |
+| [**AoE2DE-LAN**](https://github.com/bijoymuzid/AoE2DE-LAN) | Reverse-engineering project: a DLL shim with an in-process TLS/HTTP/WebSocket server and IAT hooks to bring LAN-style multiplayer to Age of Empires II: DE over Tailscale | C · Python · Win32 · MSVC |
 | [**IT OUTFIT**](https://github.com/bijoymuzid/IT-OUTFIT) | Quiet-luxury fashion e-commerce site with a spotlight-reveal hero, magazine-style shop grid and admin dashboard | React · Framer Motion · GSAP · Lenis |
 | **BLAZE RIND** | Energy drink product site with animated cans, layered parallax hero and flavor-synced navbar | Next.js · GSAP · Framer Motion |
 | **DriftKeys** | Piano rhythm game with a phonk-neon look, solo practice and real-time multiplayer jam rooms | React · Tone.js · Tailwind |
@@ -64,8 +64,8 @@ I'm **Bijoy Mozid**, a web developer and designer from Bangladesh. I build fast,
 ##  GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bijoymuzid&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=C9A96E&text_color=BDBDBD&icon_color=C9A96E&ring_color=C9A96E" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoymuzid&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=C9A96E&text_color=BDBDBD" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/bijoymuzid?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=C9A96E" alt="Followers" />
+  <img src="https://img.shields.io/github/last-commit/bijoymuzid/IT-OUTFIT?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a0a&color=C9A96E&label=Last%20commit" alt="Last commit" />
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ I'm **Bijoy Mozid**, a web developer and designer from Bangladesh. I build fast,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bijoymuzid&bg_color=0a0a0a&color=C9A96E&line=C9A96E&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/C9A96E/bijoymuzid" alt="Contribution heatmap" width="90%" />
 </p>
 
 ---
