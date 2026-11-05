@@ -14,19 +14,19 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I'm **Bijoy Mozid**, a web developer and designer from Bangladesh. I build fast, animation-rich websites and design the interfaces, visuals and brands that go with them, from client e-commerce and news platforms to games and personal experiments.
 
-- 🎨 I care about the details: motion, typography and a strong visual identity
-- 🛠️ Frontend development · UI/UX design · Graphic design · Game development · Modding
-- 💬 Ask me about **React, Next.js, CSS, JavaScript, GSAP and Modding**
-- 🌱 Always learning, always trying something new
-- 📫 Reach me at **bulbulmuzidb@gmail.com**
+-  I care about the details: motion, typography and a strong visual identity
+-  Frontend development · UI/UX design · Graphic design · Game development · Modding
+-  Ask me about **React, Next.js, CSS, JavaScript, GSAP and Modding**
+-  Always learning, always trying something new
+-  Reach me at **bulbulmuzidb@gmail.com**
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What it is | Tech |
 | :-- | :-- | :-- |
@@ -40,7 +40,7 @@ I'm **Bijoy Mozid**, a web developer and designer from Bangladesh. I build fast,
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Core**
 
@@ -61,7 +61,7 @@ I'm **Bijoy Mozid**, a web developer and designer from Bangladesh. I build fast,
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=bijoymuzid&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=C9A96E&text_color=BDBDBD&icon_color=C9A96E&ring_color=C9A96E" alt="GitHub stats" />
@@ -78,7 +78,7 @@ I'm **Bijoy Mozid**, a web developer and designer from Bangladesh. I build fast,
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bulbul-muzid-418098409" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="36" width="46" /></a>
